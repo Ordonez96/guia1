@@ -11,6 +11,6 @@ function esPalindromo($texto) {
     return $texto === $invertido;
 }
 
-// Ejemplo de uso: Verificar si la palabra "Orejero" es un palíndromo
+// Ejmeplo, con la palabra "Orejero" 
 echo esPalindromo("Orejero") ? "Es palíndromo" : "No es palíndromo";
 ?>
